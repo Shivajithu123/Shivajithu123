@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivajithu123
+- 👋 Hi, I’m @shivadath
 - 👀 I’m interested in mobile phone technology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning python
