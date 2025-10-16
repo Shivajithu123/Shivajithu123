@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shivadath
-- 👀 I’m interested in mobile phone technology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on learning python
-- 📫 How to reach me ...
+- 👀 I’m interested in technology
+- 🌱 Python, java, css, javascript
 
 <!---
 Shivajithu123/Shivajithu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
