@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivadath
-- 👀 I’m interested in technology
-- 🌱 Python, java, css, javascript
+- 👀 I’m a self taught Software Tester
+- Continous learning and mentoring others
 
 <!---
 Shivajithu123/Shivajithu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
